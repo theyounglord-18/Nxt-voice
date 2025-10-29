@@ -2,3 +2,6 @@ livekit>=1.0
 livekit-agents[openai,deepgram,cartesia,silero,turn_detector,google]~=1.2
 livekit-plugins-noise-cancellation~=0.2
 python-dotenv~=1.0
+sarvamai>=0.1.21
+aiohttp>=3.8
+numpy>=1.24.0
